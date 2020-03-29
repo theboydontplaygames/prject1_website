@@ -1,0 +1,20 @@
+﻿body { 
+    background-color : #b6b66d;
+    text-align: left;
+     color: #000080;
+}
+p  { text-align: center;
+	color: black;
+}
+h1 { 
+    text-align: left;
+	color: black; 
+}
+h2 { 
+    color: black;
+}
+
+
+.clearfix {
+  overflow: auto;
+}
